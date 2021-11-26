@@ -31,7 +31,7 @@ Calculator Screen.
  4. Try it out.
  
 
-     ![Calculator Screen](screenshots/) 
+     ![Weather Screen](screenshots/1637890306800.jpg) 
 
 
 
