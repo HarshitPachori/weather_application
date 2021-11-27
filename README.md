@@ -30,11 +30,13 @@ Calculator Screen.
 
  4. Try it out.
 
-
-     ![Weather Screen](screenshots/1637890306818.jpg)
-     
-     ![Weather Screen](screenshots/1637890306800.jpg)
-     
+     <p float="left">
+       <img src="screenshots/1637890306818.jpg" width="200" >
+       &nbsp &nbsp
+       
+       <img src="screenshots/1637890306800.jpg" width="200" >
+    
+     </p>
 
 
 
