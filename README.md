@@ -1,12 +1,13 @@
 # **WEATHER APPLICATION**
 
-This is a `Calculator` test application 
+This is a `Weather`  application 
 built using [Flutter](https://docs.flutter.dev/). Make sure to have flutter installed on your machine
 Clone the repo to your local machine
 Open an emulator and run flutter run within the cloned repo's folder.
 Try it out. As a test of the 
 framework, I wanted to implement something
 simple that would help me get the basics down.
+I have used [Weather API](https://openweathermap.org/api)
 
 
 ## **RUNNING THE APP**
@@ -18,7 +19,7 @@ and either Android Studio and XCode
 installed to test this application in
 a simulator. Let me know if you
 encounter issues with the 
-Calculator Screen. 
+Weather Screen. 
 
 1. Make sure to have `flutter` installed 
    On your machine.
